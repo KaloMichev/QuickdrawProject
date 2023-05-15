@@ -97,9 +97,6 @@ while (true)
         }
     }
 
-    //  |      Problem is       |
-    //  v      under here       v
-
     Console.Clear();
 
     if(isTooFast)
