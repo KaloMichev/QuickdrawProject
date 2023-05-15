@@ -15,3 +15,4 @@ When you see the sign saying *FIRE* you have to press space as fast as you can. 
 
 ![image](https://github.com/KaloMichev/QuickdrawProject/assets/130793627/6f2e8022-8707-4e7e-924a-a1ae5c193a0d)
 
+After the game you can press `1` to play again or `2` to exit.
